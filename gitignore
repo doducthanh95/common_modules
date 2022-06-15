@@ -1,0 +1,26 @@
+# Mac OS X
+*.DS_Store
+
+# Xcode
+*.pbxuser
+/*.pbxuser
+*.mode1v3
+/*.mode1v3
+*.mode2v3
+/*.mode2v3
+*.perspectivev3
+/*.perspectivev3
+*.xcuserstate
+/*.xcuserstate
+*.xcworkspace/
+/*.xcworkspace/
+project.xcworkspace/
+/*.xcworkspace/
+xcuserdata/
+/xcuserdata/
+
+# Podfiles
+Pods/
+Podfile.lock
+/Pods/
+/Podfile.lock
